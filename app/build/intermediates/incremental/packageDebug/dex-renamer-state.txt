@@ -1,0 +1,7 @@
+#Tue Sep 18 17:32:15 MDT 2018
+base.0=/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ce9eef163c3f381d8a617b2d792a8be399a12343
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_790dca78f4b0cea6a01f15c44832254f44ecd94d/classes.dex
+base.1=/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_790dca78f4b0cea6a01f15c44832254f44ecd94d
+file.0=/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ce9eef163c3f381d8a617b2d792a8be399a12343/classes.dex

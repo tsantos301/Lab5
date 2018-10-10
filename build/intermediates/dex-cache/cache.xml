@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_790dca78f4b0cea6a01f15c44832254f44ecd94d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a026bdb09db253a3a6ea80a94b4e502a60c34fd4">
+        <dex dex="/Users/tylersantos/Desktop/lonelyTwitter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ce9eef163c3f381d8a617b2d792a8be399a12343/classes.dex" />
+    </item>
+
+</items>
